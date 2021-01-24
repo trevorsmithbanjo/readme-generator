@@ -1,22 +1,14 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "Program creates a readme for users project.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trevorsmithbanjo/readme-generator.git"
-  },
-  "author": "Trevor Smith",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/trevorsmithbanjo/readme-generator/issues"
-  },
-  "homepage": "https://github.com/trevorsmithbanjo/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^6.3.1"
   }
 }
