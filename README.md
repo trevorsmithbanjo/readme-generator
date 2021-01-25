@@ -1,6 +1,8 @@
 # README Generator
   ## Description
-  This program is for any developer who wants to quickly generate professional README's for their projects. It is built with node.js and inquirer.js and is run with node.js. This README was generated with the application as well.
+   ![Badge](https://img.shields.io/badge/license-MIT-green)<br>
+  This program is for any developer who wants to quickly generate professional README's for their projects. It is built with node.js and inquirer.js and is run with node.js. This README was generated with the application as well.<br>
+  Video Demo: https://youtu.be/gMVBGiAhhis
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -20,7 +22,6 @@
   ## Tests
   No tests to run.
   ## License
-  ![Badge](https://img.shields.io/badge/license-MIT-green)<br>
   Copywrite (c) 2021 Trevor Smith
 
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

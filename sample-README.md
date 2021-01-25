@@ -1,7 +1,8 @@
 # Sample
   ## Description
   ![Badge](https://img.shields.io/badge/license-GNUv3.0-green)<br>
-  This is a sample of how the README Generator works.
+  This is a sample of how the README Generator works.<br>
+  Video Demo: https://youtu.be/gMVBGiAhhis
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
