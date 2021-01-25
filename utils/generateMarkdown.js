@@ -41,6 +41,7 @@ along with this program.  If not, see https://www.gnu.org/licenses.`;
 
   return `# ${data.title}
   ## Description
+  ![Badge](https://img.shields.io/badge/license-${data.license}-green)<br>
   ${data.description}
   ## Table of Contents
   * [Installation](#Installation)
@@ -58,7 +59,6 @@ along with this program.  If not, see https://www.gnu.org/licenses.`;
   ## Tests
   ${data.tests}
   ## License
-  ![Badge](https://img.shields.io/badge/license-${data.license}-green)<br>
   ${copywrite}
   ## Questions
   Email: ${data.email}<br>
